@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Giovanni Andrea Raffa Fiorello
 
-Codigo :
+Codigo : 0000254885
 
 **Descripción del Problema:**
 
