@@ -1,0 +1,15 @@
+.meal-card {
+    overflow: hidden; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.meal-card img {
+    width: 200px; 
+    height: auto; 
+}
+
+.meal-card:hover {
+    transform: scale(1.2);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
+}

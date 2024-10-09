@@ -1,9 +1,12 @@
 import React from 'react';
+import ListMeal from './ListMeal/index'; 
+import SearchBox from '../components/SearchBox/index'
 
 function Home() {
 	return (
 		<div className='page'>
-			<h1>Aqui va tu parcial, Buena Suerte!</h1>
+			<SearchBox />
+			<ListMeal />
 		</div>
 	);
 }
